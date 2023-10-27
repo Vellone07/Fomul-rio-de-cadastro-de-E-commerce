@@ -9,8 +9,8 @@
 [Autores](https://github.com/Vellone07/Fomulario-de-cadastro-de-E-commerce#%EF%B8%8F-autores)       
 
 
-# 🚀 Projeto - Consulta CEP
-![imagem](img/github.PNG)
+# 🚀 Projeto - Formulario de cadastro para E-commerce
+![imagem](image/github.PNG)
 
 ## 📋 Descrição
 Este é um projeto simples que demonstra como criar uma tela de cadastro com os campos nomeemail e senha e também pesquisa de CEP usando HTML, CSS e JavaScript. Ao inserir um CEP válido, o código busca automaticamente o endereço completo associado a esse CEP e exibe na tela.
@@ -52,3 +52,6 @@ Gerenciamento de Conta:
 [ChatGPT](https://chat.openai.com/)
 ## 🙋‍♂️ Autores
 DAVI VELLONE 
+
+
+[def]: github.PNG
